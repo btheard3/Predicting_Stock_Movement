@@ -9,7 +9,14 @@ Choose a date range dynamically for fetching historical stock data.
 Data Visualization:
 
 Closing Price trends over time.
+
+![image](https://github.com/user-attachments/assets/99edd0d8-0f5f-486b-8c8a-868cc45b2d93)
+
+
 Moving averages (10-day and 50-day) for analyzing trends.
+
+![image](https://github.com/user-attachments/assets/87b71265-fa56-4e76-986c-9e75d7fd2630)
+
 Feature Engineering:
 
 Moving Averages: Captures short-term and long-term trends.
